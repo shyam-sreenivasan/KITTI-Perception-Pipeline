@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+raw_data_downloader/
+outputs/
